@@ -1,0 +1,754 @@
+[
+  {
+    "title": "Tongdagi xotiralar",
+    "author": "Fonus kutubxonasi",
+    "cat": "Badiiy",
+    "cls": "c1",
+    "desc": "Badiiy yo‘nalishidagi qisqa original o‘qish",
+    "text": "Tongdagi xotiralar haqida Fonus uchun tayyorlangan original qisqa matn. Har bir yangi sahifa yangi fikr va savollar sari yetaklaydi.\n\nO‘qish, kuzatish va o‘rganish orqali inson dunyoni yaxshiroq anglaydi."
+  },
+  {
+    "title": "Yashil bog‘",
+    "author": "Fonus kutubxonasi",
+    "cat": "Ilmiy",
+    "cls": "c2",
+    "desc": "Ilmiy yo‘nalishidagi qisqa original o‘qish",
+    "text": "Yashil bog‘ haqida Fonus uchun tayyorlangan original qisqa matn. Har bir yangi sahifa yangi fikr va savollar sari yetaklaydi.\n\nO‘qish, kuzatish va o‘rganish orqali inson dunyoni yaxshiroq anglaydi."
+  },
+  {
+    "title": "Bilim sari",
+    "author": "Fonus kutubxonasi",
+    "cat": "Tarix",
+    "cls": "c3",
+    "desc": "Tarix yo‘nalishidagi qisqa original o‘qish",
+    "text": "Bilim sari haqida Fonus uchun tayyorlangan original qisqa matn. Har bir yangi sahifa yangi fikr va savollar sari yetaklaydi.\n\nO‘qish, kuzatish va o‘rganish orqali inson dunyoni yaxshiroq anglaydi."
+  },
+  {
+    "title": "Samarqand sahifalari",
+    "author": "Fonus kutubxonasi",
+    "cat": "Badiiy",
+    "cls": "c4",
+    "desc": "Badiiy yo‘nalishidagi qisqa original o‘qish",
+    "text": "Samarqand sahifalari haqida Fonus uchun tayyorlangan original qisqa matn. Har bir yangi sahifa yangi fikr va savollar sari yetaklaydi.\n\nO‘qish, kuzatish va o‘rganish orqali inson dunyoni yaxshiroq anglaydi."
+  },
+  {
+    "title": "Yulduzlar ostida",
+    "author": "Fonus kutubxonasi",
+    "cat": "Ilmiy",
+    "cls": "c1",
+    "desc": "Ilmiy yo‘nalishidagi qisqa original o‘qish",
+    "text": "Yulduzlar ostida haqida Fonus uchun tayyorlangan original qisqa matn. Har bir yangi sahifa yangi fikr va savollar sari yetaklaydi.\n\nO‘qish, kuzatish va o‘rganish orqali inson dunyoni yaxshiroq anglaydi."
+  },
+  {
+    "title": "Koinot sirlari",
+    "author": "Fonus kutubxonasi",
+    "cat": "Tarix",
+    "cls": "c2",
+    "desc": "Tarix yo‘nalishidagi qisqa original o‘qish",
+    "text": "Koinot sirlari haqida Fonus uchun tayyorlangan original qisqa matn. Har bir yangi sahifa yangi fikr va savollar sari yetaklaydi.\n\nO‘qish, kuzatish va o‘rganish orqali inson dunyoni yaxshiroq anglaydi."
+  },
+  {
+    "title": "Buyuk ipak yo‘li",
+    "author": "Fonus kutubxonasi",
+    "cat": "Badiiy",
+    "cls": "c3",
+    "desc": "Badiiy yo‘nalishidagi qisqa original o‘qish",
+    "text": "Buyuk ipak yo‘li haqida Fonus uchun tayyorlangan original qisqa matn. Har bir yangi sahifa yangi fikr va savollar sari yetaklaydi.\n\nO‘qish, kuzatish va o‘rganish orqali inson dunyoni yaxshiroq anglaydi."
+  },
+  {
+    "title": "Orzular shahri",
+    "author": "Fonus kutubxonasi",
+    "cat": "Ilmiy",
+    "cls": "c4",
+    "desc": "Ilmiy yo‘nalishidagi qisqa original o‘qish",
+    "text": "Orzular shahri haqida Fonus uchun tayyorlangan original qisqa matn. Har bir yangi sahifa yangi fikr va savollar sari yetaklaydi.\n\nO‘qish, kuzatish va o‘rganish orqali inson dunyoni yaxshiroq anglaydi."
+  },
+  {
+    "title": "Aql va odat",
+    "author": "Fonus kutubxonasi",
+    "cat": "Tarix",
+    "cls": "c1",
+    "desc": "Tarix yo‘nalishidagi qisqa original o‘qish",
+    "text": "Aql va odat haqida Fonus uchun tayyorlangan original qisqa matn. Har bir yangi sahifa yangi fikr va savollar sari yetaklaydi.\n\nO‘qish, kuzatish va o‘rganish orqali inson dunyoni yaxshiroq anglaydi."
+  },
+  {
+    "title": "Qadimiy shaharlar",
+    "author": "Fonus kutubxonasi",
+    "cat": "Badiiy",
+    "cls": "c2",
+    "desc": "Badiiy yo‘nalishidagi qisqa original o‘qish",
+    "text": "Qadimiy shaharlar haqida Fonus uchun tayyorlangan original qisqa matn. Har bir yangi sahifa yangi fikr va savollar sari yetaklaydi.\n\nO‘qish, kuzatish va o‘rganish orqali inson dunyoni yaxshiroq anglaydi."
+  },
+  {
+    "title": "Sokin kecha",
+    "author": "Fonus kutubxonasi",
+    "cat": "Ilmiy",
+    "cls": "c3",
+    "desc": "Ilmiy yo‘nalishidagi qisqa original o‘qish",
+    "text": "Sokin kecha haqida Fonus uchun tayyorlangan original qisqa matn. Har bir yangi sahifa yangi fikr va savollar sari yetaklaydi.\n\nO‘qish, kuzatish va o‘rganish orqali inson dunyoni yaxshiroq anglaydi."
+  },
+  {
+    "title": "Tabiat va inson",
+    "author": "Fonus kutubxonasi",
+    "cat": "Tarix",
+    "cls": "c4",
+    "desc": "Tarix yo‘nalishidagi qisqa original o‘qish",
+    "text": "Tabiat va inson haqida Fonus uchun tayyorlangan original qisqa matn. Har bir yangi sahifa yangi fikr va savollar sari yetaklaydi.\n\nO‘qish, kuzatish va o‘rganish orqali inson dunyoni yaxshiroq anglaydi."
+  },
+  {
+    "title": "Bahor nafasi",
+    "author": "Fonus kutubxonasi",
+    "cat": "Badiiy",
+    "cls": "c1",
+    "desc": "Badiiy yo‘nalishidagi qisqa original o‘qish",
+    "text": "Bahor nafasi haqida Fonus uchun tayyorlangan original qisqa matn. Har bir yangi sahifa yangi fikr va savollar sari yetaklaydi.\n\nO‘qish, kuzatish va o‘rganish orqali inson dunyoni yaxshiroq anglaydi."
+  },
+  {
+    "title": "Eski daftar",
+    "author": "Fonus kutubxonasi",
+    "cat": "Ilmiy",
+    "cls": "c2",
+    "desc": "Ilmiy yo‘nalishidagi qisqa original o‘qish",
+    "text": "Eski daftar haqida Fonus uchun tayyorlangan original qisqa matn. Har bir yangi sahifa yangi fikr va savollar sari yetaklaydi.\n\nO‘qish, kuzatish va o‘rganish orqali inson dunyoni yaxshiroq anglaydi."
+  },
+  {
+    "title": "Yangi kun",
+    "author": "Fonus kutubxonasi",
+    "cat": "Tarix",
+    "cls": "c3",
+    "desc": "Tarix yo‘nalishidagi qisqa original o‘qish",
+    "text": "Yangi kun haqida Fonus uchun tayyorlangan original qisqa matn. Har bir yangi sahifa yangi fikr va savollar sari yetaklaydi.\n\nO‘qish, kuzatish va o‘rganish orqali inson dunyoni yaxshiroq anglaydi."
+  },
+  {
+    "title": "Uzoq yo‘l",
+    "author": "Fonus kutubxonasi",
+    "cat": "Badiiy",
+    "cls": "c4",
+    "desc": "Badiiy yo‘nalishidagi qisqa original o‘qish",
+    "text": "Uzoq yo‘l haqida Fonus uchun tayyorlangan original qisqa matn. Har bir yangi sahifa yangi fikr va savollar sari yetaklaydi.\n\nO‘qish, kuzatish va o‘rganish orqali inson dunyoni yaxshiroq anglaydi."
+  },
+  {
+    "title": "Kitoblar olami",
+    "author": "Fonus kutubxonasi",
+    "cat": "Ilmiy",
+    "cls": "c1",
+    "desc": "Ilmiy yo‘nalishidagi qisqa original o‘qish",
+    "text": "Kitoblar olami haqida Fonus uchun tayyorlangan original qisqa matn. Har bir yangi sahifa yangi fikr va savollar sari yetaklaydi.\n\nO‘qish, kuzatish va o‘rganish orqali inson dunyoni yaxshiroq anglaydi."
+  },
+  {
+    "title": "Qalbdagi nur",
+    "author": "Fonus kutubxonasi",
+    "cat": "Tarix",
+    "cls": "c2",
+    "desc": "Tarix yo‘nalishidagi qisqa original o‘qish",
+    "text": "Qalbdagi nur haqida Fonus uchun tayyorlangan original qisqa matn. Har bir yangi sahifa yangi fikr va savollar sari yetaklaydi.\n\nO‘qish, kuzatish va o‘rganish orqali inson dunyoni yaxshiroq anglaydi."
+  },
+  {
+    "title": "Vaqt qadri",
+    "author": "Fonus kutubxonasi",
+    "cat": "Badiiy",
+    "cls": "c3",
+    "desc": "Badiiy yo‘nalishidagi qisqa original o‘qish",
+    "text": "Vaqt qadri haqida Fonus uchun tayyorlangan original qisqa matn. Har bir yangi sahifa yangi fikr va savollar sari yetaklaydi.\n\nO‘qish, kuzatish va o‘rganish orqali inson dunyoni yaxshiroq anglaydi."
+  },
+  {
+    "title": "Kichik qadamlar",
+    "author": "Fonus kutubxonasi",
+    "cat": "Ilmiy",
+    "cls": "c4",
+    "desc": "Ilmiy yo‘nalishidagi qisqa original o‘qish",
+    "text": "Kichik qadamlar haqida Fonus uchun tayyorlangan original qisqa matn. Har bir yangi sahifa yangi fikr va savollar sari yetaklaydi.\n\nO‘qish, kuzatish va o‘rganish orqali inson dunyoni yaxshiroq anglaydi."
+  },
+  {
+    "title": "Moviy osmon",
+    "author": "Fonus kutubxonasi",
+    "cat": "Tarix",
+    "cls": "c1",
+    "desc": "Tarix yo‘nalishidagi qisqa original o‘qish",
+    "text": "Moviy osmon haqida Fonus uchun tayyorlangan original qisqa matn. Har bir yangi sahifa yangi fikr va savollar sari yetaklaydi.\n\nO‘qish, kuzatish va o‘rganish orqali inson dunyoni yaxshiroq anglaydi."
+  },
+  {
+    "title": "Tog‘lar sadosi",
+    "author": "Fonus kutubxonasi",
+    "cat": "Badiiy",
+    "cls": "c2",
+    "desc": "Badiiy yo‘nalishidagi qisqa original o‘qish",
+    "text": "Tog‘lar sadosi haqida Fonus uchun tayyorlangan original qisqa matn. Har bir yangi sahifa yangi fikr va savollar sari yetaklaydi.\n\nO‘qish, kuzatish va o‘rganish orqali inson dunyoni yaxshiroq anglaydi."
+  },
+  {
+    "title": "Daryo bo‘yida",
+    "author": "Fonus kutubxonasi",
+    "cat": "Ilmiy",
+    "cls": "c3",
+    "desc": "Ilmiy yo‘nalishidagi qisqa original o‘qish",
+    "text": "Daryo bo‘yida haqida Fonus uchun tayyorlangan original qisqa matn. Har bir yangi sahifa yangi fikr va savollar sari yetaklaydi.\n\nO‘qish, kuzatish va o‘rganish orqali inson dunyoni yaxshiroq anglaydi."
+  },
+  {
+    "title": "Kuzgi yaproqlar",
+    "author": "Fonus kutubxonasi",
+    "cat": "Tarix",
+    "cls": "c4",
+    "desc": "Tarix yo‘nalishidagi qisqa original o‘qish",
+    "text": "Kuzgi yaproqlar haqida Fonus uchun tayyorlangan original qisqa matn. Har bir yangi sahifa yangi fikr va savollar sari yetaklaydi.\n\nO‘qish, kuzatish va o‘rganish orqali inson dunyoni yaxshiroq anglaydi."
+  },
+  {
+    "title": "Do‘stlik",
+    "author": "Fonus kutubxonasi",
+    "cat": "Badiiy",
+    "cls": "c1",
+    "desc": "Badiiy yo‘nalishidagi qisqa original o‘qish",
+    "text": "Do‘stlik haqida Fonus uchun tayyorlangan original qisqa matn. Har bir yangi sahifa yangi fikr va savollar sari yetaklaydi.\n\nO‘qish, kuzatish va o‘rganish orqali inson dunyoni yaxshiroq anglaydi."
+  },
+  {
+    "title": "Ilhom manbai",
+    "author": "Fonus kutubxonasi",
+    "cat": "Ilmiy",
+    "cls": "c2",
+    "desc": "Ilmiy yo‘nalishidagi qisqa original o‘qish",
+    "text": "Ilhom manbai haqida Fonus uchun tayyorlangan original qisqa matn. Har bir yangi sahifa yangi fikr va savollar sari yetaklaydi.\n\nO‘qish, kuzatish va o‘rganish orqali inson dunyoni yaxshiroq anglaydi."
+  },
+  {
+    "title": "Kelajak sari",
+    "author": "Fonus kutubxonasi",
+    "cat": "Tarix",
+    "cls": "c3",
+    "desc": "Tarix yo‘nalishidagi qisqa original o‘qish",
+    "text": "Kelajak sari haqida Fonus uchun tayyorlangan original qisqa matn. Har bir yangi sahifa yangi fikr va savollar sari yetaklaydi.\n\nO‘qish, kuzatish va o‘rganish orqali inson dunyoni yaxshiroq anglaydi."
+  },
+  {
+    "title": "Mehnat mevasi",
+    "author": "Fonus kutubxonasi",
+    "cat": "Badiiy",
+    "cls": "c4",
+    "desc": "Badiiy yo‘nalishidagi qisqa original o‘qish",
+    "text": "Mehnat mevasi haqida Fonus uchun tayyorlangan original qisqa matn. Har bir yangi sahifa yangi fikr va savollar sari yetaklaydi.\n\nO‘qish, kuzatish va o‘rganish orqali inson dunyoni yaxshiroq anglaydi."
+  },
+  {
+    "title": "Shahar tongi",
+    "author": "Fonus kutubxonasi",
+    "cat": "Ilmiy",
+    "cls": "c1",
+    "desc": "Ilmiy yo‘nalishidagi qisqa original o‘qish",
+    "text": "Shahar tongi haqida Fonus uchun tayyorlangan original qisqa matn. Har bir yangi sahifa yangi fikr va savollar sari yetaklaydi.\n\nO‘qish, kuzatish va o‘rganish orqali inson dunyoni yaxshiroq anglaydi."
+  },
+  {
+    "title": "Qishloq hikoyalari",
+    "author": "Fonus kutubxonasi",
+    "cat": "Tarix",
+    "cls": "c2",
+    "desc": "Tarix yo‘nalishidagi qisqa original o‘qish",
+    "text": "Qishloq hikoyalari haqida Fonus uchun tayyorlangan original qisqa matn. Har bir yangi sahifa yangi fikr va savollar sari yetaklaydi.\n\nO‘qish, kuzatish va o‘rganish orqali inson dunyoni yaxshiroq anglaydi."
+  },
+  {
+    "title": "Sirli maktub",
+    "author": "Fonus kutubxonasi",
+    "cat": "Badiiy",
+    "cls": "c3",
+    "desc": "Badiiy yo‘nalishidagi qisqa original o‘qish",
+    "text": "Sirli maktub haqida Fonus uchun tayyorlangan original qisqa matn. Har bir yangi sahifa yangi fikr va savollar sari yetaklaydi.\n\nO‘qish, kuzatish va o‘rganish orqali inson dunyoni yaxshiroq anglaydi."
+  },
+  {
+    "title": "Unutilmas kun",
+    "author": "Fonus kutubxonasi",
+    "cat": "Ilmiy",
+    "cls": "c4",
+    "desc": "Ilmiy yo‘nalishidagi qisqa original o‘qish",
+    "text": "Unutilmas kun haqida Fonus uchun tayyorlangan original qisqa matn. Har bir yangi sahifa yangi fikr va savollar sari yetaklaydi.\n\nO‘qish, kuzatish va o‘rganish orqali inson dunyoni yaxshiroq anglaydi."
+  },
+  {
+    "title": "Orzu va maqsad",
+    "author": "Fonus kutubxonasi",
+    "cat": "Tarix",
+    "cls": "c1",
+    "desc": "Tarix yo‘nalishidagi qisqa original o‘qish",
+    "text": "Orzu va maqsad haqida Fonus uchun tayyorlangan original qisqa matn. Har bir yangi sahifa yangi fikr va savollar sari yetaklaydi.\n\nO‘qish, kuzatish va o‘rganish orqali inson dunyoni yaxshiroq anglaydi."
+  },
+  {
+    "title": "Bilim kuchi",
+    "author": "Fonus kutubxonasi",
+    "cat": "Badiiy",
+    "cls": "c2",
+    "desc": "Badiiy yo‘nalishidagi qisqa original o‘qish",
+    "text": "Bilim kuchi haqida Fonus uchun tayyorlangan original qisqa matn. Har bir yangi sahifa yangi fikr va savollar sari yetaklaydi.\n\nO‘qish, kuzatish va o‘rganish orqali inson dunyoni yaxshiroq anglaydi."
+  },
+  {
+    "title": "Tabiat mo‘jizalari",
+    "author": "Fonus kutubxonasi",
+    "cat": "Ilmiy",
+    "cls": "c3",
+    "desc": "Ilmiy yo‘nalishidagi qisqa original o‘qish",
+    "text": "Tabiat mo‘jizalari haqida Fonus uchun tayyorlangan original qisqa matn. Har bir yangi sahifa yangi fikr va savollar sari yetaklaydi.\n\nO‘qish, kuzatish va o‘rganish orqali inson dunyoni yaxshiroq anglaydi."
+  },
+  {
+    "title": "Tarix izlari",
+    "author": "Fonus kutubxonasi",
+    "cat": "Tarix",
+    "cls": "c4",
+    "desc": "Tarix yo‘nalishidagi qisqa original o‘qish",
+    "text": "Tarix izlari haqida Fonus uchun tayyorlangan original qisqa matn. Har bir yangi sahifa yangi fikr va savollar sari yetaklaydi.\n\nO‘qish, kuzatish va o‘rganish orqali inson dunyoni yaxshiroq anglaydi."
+  },
+  {
+    "title": "Ajdodlar merosi",
+    "author": "Fonus kutubxonasi",
+    "cat": "Badiiy",
+    "cls": "c1",
+    "desc": "Badiiy yo‘nalishidagi qisqa original o‘qish",
+    "text": "Ajdodlar merosi haqida Fonus uchun tayyorlangan original qisqa matn. Har bir yangi sahifa yangi fikr va savollar sari yetaklaydi.\n\nO‘qish, kuzatish va o‘rganish orqali inson dunyoni yaxshiroq anglaydi."
+  },
+  {
+    "title": "Ona yurt",
+    "author": "Fonus kutubxonasi",
+    "cat": "Ilmiy",
+    "cls": "c2",
+    "desc": "Ilmiy yo‘nalishidagi qisqa original o‘qish",
+    "text": "Ona yurt haqida Fonus uchun tayyorlangan original qisqa matn. Har bir yangi sahifa yangi fikr va savollar sari yetaklaydi.\n\nO‘qish, kuzatish va o‘rganish orqali inson dunyoni yaxshiroq anglaydi."
+  },
+  {
+    "title": "Safar xotiralari",
+    "author": "Fonus kutubxonasi",
+    "cat": "Tarix",
+    "cls": "c3",
+    "desc": "Tarix yo‘nalishidagi qisqa original o‘qish",
+    "text": "Safar xotiralari haqida Fonus uchun tayyorlangan original qisqa matn. Har bir yangi sahifa yangi fikr va savollar sari yetaklaydi.\n\nO‘qish, kuzatish va o‘rganish orqali inson dunyoni yaxshiroq anglaydi."
+  },
+  {
+    "title": "Yorqin kelajak",
+    "author": "Fonus kutubxonasi",
+    "cat": "Badiiy",
+    "cls": "c4",
+    "desc": "Badiiy yo‘nalishidagi qisqa original o‘qish",
+    "text": "Yorqin kelajak haqida Fonus uchun tayyorlangan original qisqa matn. Har bir yangi sahifa yangi fikr va savollar sari yetaklaydi.\n\nO‘qish, kuzatish va o‘rganish orqali inson dunyoni yaxshiroq anglaydi."
+  },
+  {
+    "title": "Sabr va harakat",
+    "author": "Fonus kutubxonasi",
+    "cat": "Ilmiy",
+    "cls": "c1",
+    "desc": "Ilmiy yo‘nalishidagi qisqa original o‘qish",
+    "text": "Sabr va harakat haqida Fonus uchun tayyorlangan original qisqa matn. Har bir yangi sahifa yangi fikr va savollar sari yetaklaydi.\n\nO‘qish, kuzatish va o‘rganish orqali inson dunyoni yaxshiroq anglaydi."
+  },
+  {
+    "title": "Hayot saboqlari",
+    "author": "Fonus kutubxonasi",
+    "cat": "Tarix",
+    "cls": "c2",
+    "desc": "Tarix yo‘nalishidagi qisqa original o‘qish",
+    "text": "Hayot saboqlari haqida Fonus uchun tayyorlangan original qisqa matn. Har bir yangi sahifa yangi fikr va savollar sari yetaklaydi.\n\nO‘qish, kuzatish va o‘rganish orqali inson dunyoni yaxshiroq anglaydi."
+  },
+  {
+    "title": "Bir kunlik sayohat",
+    "author": "Fonus kutubxonasi",
+    "cat": "Badiiy",
+    "cls": "c3",
+    "desc": "Badiiy yo‘nalishidagi qisqa original o‘qish",
+    "text": "Bir kunlik sayohat haqida Fonus uchun tayyorlangan original qisqa matn. Har bir yangi sahifa yangi fikr va savollar sari yetaklaydi.\n\nO‘qish, kuzatish va o‘rganish orqali inson dunyoni yaxshiroq anglaydi."
+  },
+  {
+    "title": "Eski ko‘cha",
+    "author": "Fonus kutubxonasi",
+    "cat": "Ilmiy",
+    "cls": "c4",
+    "desc": "Ilmiy yo‘nalishidagi qisqa original o‘qish",
+    "text": "Eski ko‘cha haqida Fonus uchun tayyorlangan original qisqa matn. Har bir yangi sahifa yangi fikr va savollar sari yetaklaydi.\n\nO‘qish, kuzatish va o‘rganish orqali inson dunyoni yaxshiroq anglaydi."
+  },
+  {
+    "title": "Yomg‘irli kun",
+    "author": "Fonus kutubxonasi",
+    "cat": "Tarix",
+    "cls": "c1",
+    "desc": "Tarix yo‘nalishidagi qisqa original o‘qish",
+    "text": "Yomg‘irli kun haqida Fonus uchun tayyorlangan original qisqa matn. Har bir yangi sahifa yangi fikr va savollar sari yetaklaydi.\n\nO‘qish, kuzatish va o‘rganish orqali inson dunyoni yaxshiroq anglaydi."
+  },
+  {
+    "title": "Quyoshli tong",
+    "author": "Fonus kutubxonasi",
+    "cat": "Badiiy",
+    "cls": "c2",
+    "desc": "Badiiy yo‘nalishidagi qisqa original o‘qish",
+    "text": "Quyoshli tong haqida Fonus uchun tayyorlangan original qisqa matn. Har bir yangi sahifa yangi fikr va savollar sari yetaklaydi.\n\nO‘qish, kuzatish va o‘rganish orqali inson dunyoni yaxshiroq anglaydi."
+  },
+  {
+    "title": "Dengiz nafasi",
+    "author": "Fonus kutubxonasi",
+    "cat": "Ilmiy",
+    "cls": "c3",
+    "desc": "Ilmiy yo‘nalishidagi qisqa original o‘qish",
+    "text": "Dengiz nafasi haqida Fonus uchun tayyorlangan original qisqa matn. Har bir yangi sahifa yangi fikr va savollar sari yetaklaydi.\n\nO‘qish, kuzatish va o‘rganish orqali inson dunyoni yaxshiroq anglaydi."
+  },
+  {
+    "title": "Oy nurida",
+    "author": "Fonus kutubxonasi",
+    "cat": "Tarix",
+    "cls": "c4",
+    "desc": "Tarix yo‘nalishidagi qisqa original o‘qish",
+    "text": "Oy nurida haqida Fonus uchun tayyorlangan original qisqa matn. Har bir yangi sahifa yangi fikr va savollar sari yetaklaydi.\n\nO‘qish, kuzatish va o‘rganish orqali inson dunyoni yaxshiroq anglaydi."
+  },
+  {
+    "title": "Yashirin bog‘",
+    "author": "Fonus kutubxonasi",
+    "cat": "Badiiy",
+    "cls": "c1",
+    "desc": "Badiiy yo‘nalishidagi qisqa original o‘qish",
+    "text": "Yashirin bog‘ haqida Fonus uchun tayyorlangan original qisqa matn. Har bir yangi sahifa yangi fikr va savollar sari yetaklaydi.\n\nO‘qish, kuzatish va o‘rganish orqali inson dunyoni yaxshiroq anglaydi."
+  },
+  {
+    "title": "Qadimiy kitob",
+    "author": "Fonus kutubxonasi",
+    "cat": "Ilmiy",
+    "cls": "c2",
+    "desc": "Ilmiy yo‘nalishidagi qisqa original o‘qish",
+    "text": "Qadimiy kitob haqida Fonus uchun tayyorlangan original qisqa matn. Har bir yangi sahifa yangi fikr va savollar sari yetaklaydi.\n\nO‘qish, kuzatish va o‘rganish orqali inson dunyoni yaxshiroq anglaydi."
+  },
+  {
+    "title": "Donishmand so‘zlari",
+    "author": "Fonus kutubxonasi",
+    "cat": "Tarix",
+    "cls": "c3",
+    "desc": "Tarix yo‘nalishidagi qisqa original o‘qish",
+    "text": "Donishmand so‘zlari haqida Fonus uchun tayyorlangan original qisqa matn. Har bir yangi sahifa yangi fikr va savollar sari yetaklaydi.\n\nO‘qish, kuzatish va o‘rganish orqali inson dunyoni yaxshiroq anglaydi."
+  },
+  {
+    "title": "Ilm yo‘li",
+    "author": "Fonus kutubxonasi",
+    "cat": "Badiiy",
+    "cls": "c4",
+    "desc": "Badiiy yo‘nalishidagi qisqa original o‘qish",
+    "text": "Ilm yo‘li haqida Fonus uchun tayyorlangan original qisqa matn. Har bir yangi sahifa yangi fikr va savollar sari yetaklaydi.\n\nO‘qish, kuzatish va o‘rganish orqali inson dunyoni yaxshiroq anglaydi."
+  },
+  {
+    "title": "Koinotga nazar",
+    "author": "Fonus kutubxonasi",
+    "cat": "Ilmiy",
+    "cls": "c1",
+    "desc": "Ilmiy yo‘nalishidagi qisqa original o‘qish",
+    "text": "Koinotga nazar haqida Fonus uchun tayyorlangan original qisqa matn. Har bir yangi sahifa yangi fikr va savollar sari yetaklaydi.\n\nO‘qish, kuzatish va o‘rganish orqali inson dunyoni yaxshiroq anglaydi."
+  },
+  {
+    "title": "Yer sayyorasi",
+    "author": "Fonus kutubxonasi",
+    "cat": "Tarix",
+    "cls": "c2",
+    "desc": "Tarix yo‘nalishidagi qisqa original o‘qish",
+    "text": "Yer sayyorasi haqida Fonus uchun tayyorlangan original qisqa matn. Har bir yangi sahifa yangi fikr va savollar sari yetaklaydi.\n\nO‘qish, kuzatish va o‘rganish orqali inson dunyoni yaxshiroq anglaydi."
+  },
+  {
+    "title": "Hayvonot olami",
+    "author": "Fonus kutubxonasi",
+    "cat": "Badiiy",
+    "cls": "c3",
+    "desc": "Badiiy yo‘nalishidagi qisqa original o‘qish",
+    "text": "Hayvonot olami haqida Fonus uchun tayyorlangan original qisqa matn. Har bir yangi sahifa yangi fikr va savollar sari yetaklaydi.\n\nO‘qish, kuzatish va o‘rganish orqali inson dunyoni yaxshiroq anglaydi."
+  },
+  {
+    "title": "O‘simliklar dunyosi",
+    "author": "Fonus kutubxonasi",
+    "cat": "Ilmiy",
+    "cls": "c4",
+    "desc": "Ilmiy yo‘nalishidagi qisqa original o‘qish",
+    "text": "O‘simliklar dunyosi haqida Fonus uchun tayyorlangan original qisqa matn. Har bir yangi sahifa yangi fikr va savollar sari yetaklaydi.\n\nO‘qish, kuzatish va o‘rganish orqali inson dunyoni yaxshiroq anglaydi."
+  },
+  {
+    "title": "Suvning siri",
+    "author": "Fonus kutubxonasi",
+    "cat": "Tarix",
+    "cls": "c1",
+    "desc": "Tarix yo‘nalishidagi qisqa original o‘qish",
+    "text": "Suvning siri haqida Fonus uchun tayyorlangan original qisqa matn. Har bir yangi sahifa yangi fikr va savollar sari yetaklaydi.\n\nO‘qish, kuzatish va o‘rganish orqali inson dunyoni yaxshiroq anglaydi."
+  },
+  {
+    "title": "Havo va hayot",
+    "author": "Fonus kutubxonasi",
+    "cat": "Badiiy",
+    "cls": "c2",
+    "desc": "Badiiy yo‘nalishidagi qisqa original o‘qish",
+    "text": "Havo va hayot haqida Fonus uchun tayyorlangan original qisqa matn. Har bir yangi sahifa yangi fikr va savollar sari yetaklaydi.\n\nO‘qish, kuzatish va o‘rganish orqali inson dunyoni yaxshiroq anglaydi."
+  },
+  {
+    "title": "Inson miyasi",
+    "author": "Fonus kutubxonasi",
+    "cat": "Ilmiy",
+    "cls": "c3",
+    "desc": "Ilmiy yo‘nalishidagi qisqa original o‘qish",
+    "text": "Inson miyasi haqida Fonus uchun tayyorlangan original qisqa matn. Har bir yangi sahifa yangi fikr va savollar sari yetaklaydi.\n\nO‘qish, kuzatish va o‘rganish orqali inson dunyoni yaxshiroq anglaydi."
+  },
+  {
+    "title": "Texnologiya olami",
+    "author": "Fonus kutubxonasi",
+    "cat": "Tarix",
+    "cls": "c4",
+    "desc": "Tarix yo‘nalishidagi qisqa original o‘qish",
+    "text": "Texnologiya olami haqida Fonus uchun tayyorlangan original qisqa matn. Har bir yangi sahifa yangi fikr va savollar sari yetaklaydi.\n\nO‘qish, kuzatish va o‘rganish orqali inson dunyoni yaxshiroq anglaydi."
+  },
+  {
+    "title": "Raqamli kelajak",
+    "author": "Fonus kutubxonasi",
+    "cat": "Badiiy",
+    "cls": "c1",
+    "desc": "Badiiy yo‘nalishidagi qisqa original o‘qish",
+    "text": "Raqamli kelajak haqida Fonus uchun tayyorlangan original qisqa matn. Har bir yangi sahifa yangi fikr va savollar sari yetaklaydi.\n\nO‘qish, kuzatish va o‘rganish orqali inson dunyoni yaxshiroq anglaydi."
+  },
+  {
+    "title": "Ixtirochilar",
+    "author": "Fonus kutubxonasi",
+    "cat": "Ilmiy",
+    "cls": "c2",
+    "desc": "Ilmiy yo‘nalishidagi qisqa original o‘qish",
+    "text": "Ixtirochilar haqida Fonus uchun tayyorlangan original qisqa matn. Har bir yangi sahifa yangi fikr va savollar sari yetaklaydi.\n\nO‘qish, kuzatish va o‘rganish orqali inson dunyoni yaxshiroq anglaydi."
+  },
+  {
+    "title": "Kashfiyotlar tarixi",
+    "author": "Fonus kutubxonasi",
+    "cat": "Tarix",
+    "cls": "c3",
+    "desc": "Tarix yo‘nalishidagi qisqa original o‘qish",
+    "text": "Kashfiyotlar tarixi haqida Fonus uchun tayyorlangan original qisqa matn. Har bir yangi sahifa yangi fikr va savollar sari yetaklaydi.\n\nO‘qish, kuzatish va o‘rganish orqali inson dunyoni yaxshiroq anglaydi."
+  },
+  {
+    "title": "Buyuk olimlar",
+    "author": "Fonus kutubxonasi",
+    "cat": "Badiiy",
+    "cls": "c4",
+    "desc": "Badiiy yo‘nalishidagi qisqa original o‘qish",
+    "text": "Buyuk olimlar haqida Fonus uchun tayyorlangan original qisqa matn. Har bir yangi sahifa yangi fikr va savollar sari yetaklaydi.\n\nO‘qish, kuzatish va o‘rganish orqali inson dunyoni yaxshiroq anglaydi."
+  },
+  {
+    "title": "San’at va ijod",
+    "author": "Fonus kutubxonasi",
+    "cat": "Ilmiy",
+    "cls": "c1",
+    "desc": "Ilmiy yo‘nalishidagi qisqa original o‘qish",
+    "text": "San’at va ijod haqida Fonus uchun tayyorlangan original qisqa matn. Har bir yangi sahifa yangi fikr va savollar sari yetaklaydi.\n\nO‘qish, kuzatish va o‘rganish orqali inson dunyoni yaxshiroq anglaydi."
+  },
+  {
+    "title": "Musiqa sehri",
+    "author": "Fonus kutubxonasi",
+    "cat": "Tarix",
+    "cls": "c2",
+    "desc": "Tarix yo‘nalishidagi qisqa original o‘qish",
+    "text": "Musiqa sehri haqida Fonus uchun tayyorlangan original qisqa matn. Har bir yangi sahifa yangi fikr va savollar sari yetaklaydi.\n\nO‘qish, kuzatish va o‘rganish orqali inson dunyoni yaxshiroq anglaydi."
+  },
+  {
+    "title": "She’riyat olami",
+    "author": "Fonus kutubxonasi",
+    "cat": "Badiiy",
+    "cls": "c3",
+    "desc": "Badiiy yo‘nalishidagi qisqa original o‘qish",
+    "text": "She’riyat olami haqida Fonus uchun tayyorlangan original qisqa matn. Har bir yangi sahifa yangi fikr va savollar sari yetaklaydi.\n\nO‘qish, kuzatish va o‘rganish orqali inson dunyoni yaxshiroq anglaydi."
+  },
+  {
+    "title": "Hikoya san’ati",
+    "author": "Fonus kutubxonasi",
+    "cat": "Ilmiy",
+    "cls": "c4",
+    "desc": "Ilmiy yo‘nalishidagi qisqa original o‘qish",
+    "text": "Hikoya san’ati haqida Fonus uchun tayyorlangan original qisqa matn. Har bir yangi sahifa yangi fikr va savollar sari yetaklaydi.\n\nO‘qish, kuzatish va o‘rganish orqali inson dunyoni yaxshiroq anglaydi."
+  },
+  {
+    "title": "Tasavvur kuchi",
+    "author": "Fonus kutubxonasi",
+    "cat": "Tarix",
+    "cls": "c1",
+    "desc": "Tarix yo‘nalishidagi qisqa original o‘qish",
+    "text": "Tasavvur kuchi haqida Fonus uchun tayyorlangan original qisqa matn. Har bir yangi sahifa yangi fikr va savollar sari yetaklaydi.\n\nO‘qish, kuzatish va o‘rganish orqali inson dunyoni yaxshiroq anglaydi."
+  },
+  {
+    "title": "Mehrli oila",
+    "author": "Fonus kutubxonasi",
+    "cat": "Badiiy",
+    "cls": "c2",
+    "desc": "Badiiy yo‘nalishidagi qisqa original o‘qish",
+    "text": "Mehrli oila haqida Fonus uchun tayyorlangan original qisqa matn. Har bir yangi sahifa yangi fikr va savollar sari yetaklaydi.\n\nO‘qish, kuzatish va o‘rganish orqali inson dunyoni yaxshiroq anglaydi."
+  },
+  {
+    "title": "Yaxshi do‘st",
+    "author": "Fonus kutubxonasi",
+    "cat": "Ilmiy",
+    "cls": "c3",
+    "desc": "Ilmiy yo‘nalishidagi qisqa original o‘qish",
+    "text": "Yaxshi do‘st haqida Fonus uchun tayyorlangan original qisqa matn. Har bir yangi sahifa yangi fikr va savollar sari yetaklaydi.\n\nO‘qish, kuzatish va o‘rganish orqali inson dunyoni yaxshiroq anglaydi."
+  },
+  {
+    "title": "Maktab xotiralari",
+    "author": "Fonus kutubxonasi",
+    "cat": "Tarix",
+    "cls": "c4",
+    "desc": "Tarix yo‘nalishidagi qisqa original o‘qish",
+    "text": "Maktab xotiralari haqida Fonus uchun tayyorlangan original qisqa matn. Har bir yangi sahifa yangi fikr va savollar sari yetaklaydi.\n\nO‘qish, kuzatish va o‘rganish orqali inson dunyoni yaxshiroq anglaydi."
+  },
+  {
+    "title": "Ustoz sabog‘i",
+    "author": "Fonus kutubxonasi",
+    "cat": "Badiiy",
+    "cls": "c1",
+    "desc": "Badiiy yo‘nalishidagi qisqa original o‘qish",
+    "text": "Ustoz sabog‘i haqida Fonus uchun tayyorlangan original qisqa matn. Har bir yangi sahifa yangi fikr va savollar sari yetaklaydi.\n\nO‘qish, kuzatish va o‘rganish orqali inson dunyoni yaxshiroq anglaydi."
+  },
+  {
+    "title": "Yosh kitobxon",
+    "author": "Fonus kutubxonasi",
+    "cat": "Ilmiy",
+    "cls": "c2",
+    "desc": "Ilmiy yo‘nalishidagi qisqa original o‘qish",
+    "text": "Yosh kitobxon haqida Fonus uchun tayyorlangan original qisqa matn. Har bir yangi sahifa yangi fikr va savollar sari yetaklaydi.\n\nO‘qish, kuzatish va o‘rganish orqali inson dunyoni yaxshiroq anglaydi."
+  },
+  {
+    "title": "Orzudagi kasb",
+    "author": "Fonus kutubxonasi",
+    "cat": "Tarix",
+    "cls": "c3",
+    "desc": "Tarix yo‘nalishidagi qisqa original o‘qish",
+    "text": "Orzudagi kasb haqida Fonus uchun tayyorlangan original qisqa matn. Har bir yangi sahifa yangi fikr va savollar sari yetaklaydi.\n\nO‘qish, kuzatish va o‘rganish orqali inson dunyoni yaxshiroq anglaydi."
+  },
+  {
+    "title": "Maqsad sari",
+    "author": "Fonus kutubxonasi",
+    "cat": "Badiiy",
+    "cls": "c4",
+    "desc": "Badiiy yo‘nalishidagi qisqa original o‘qish",
+    "text": "Maqsad sari haqida Fonus uchun tayyorlangan original qisqa matn. Har bir yangi sahifa yangi fikr va savollar sari yetaklaydi.\n\nO‘qish, kuzatish va o‘rganish orqali inson dunyoni yaxshiroq anglaydi."
+  },
+  {
+    "title": "G‘alaba siri",
+    "author": "Fonus kutubxonasi",
+    "cat": "Ilmiy",
+    "cls": "c1",
+    "desc": "Ilmiy yo‘nalishidagi qisqa original o‘qish",
+    "text": "G‘alaba siri haqida Fonus uchun tayyorlangan original qisqa matn. Har bir yangi sahifa yangi fikr va savollar sari yetaklaydi.\n\nO‘qish, kuzatish va o‘rganish orqali inson dunyoni yaxshiroq anglaydi."
+  },
+  {
+    "title": "Muvaffaqiyat qadamlari",
+    "author": "Fonus kutubxonasi",
+    "cat": "Tarix",
+    "cls": "c2",
+    "desc": "Tarix yo‘nalishidagi qisqa original o‘qish",
+    "text": "Muvaffaqiyat qadamlari haqida Fonus uchun tayyorlangan original qisqa matn. Har bir yangi sahifa yangi fikr va savollar sari yetaklaydi.\n\nO‘qish, kuzatish va o‘rganish orqali inson dunyoni yaxshiroq anglaydi."
+  },
+  {
+    "title": "Vaqtni boshqarish",
+    "author": "Fonus kutubxonasi",
+    "cat": "Badiiy",
+    "cls": "c3",
+    "desc": "Badiiy yo‘nalishidagi qisqa original o‘qish",
+    "text": "Vaqtni boshqarish haqida Fonus uchun tayyorlangan original qisqa matn. Har bir yangi sahifa yangi fikr va savollar sari yetaklaydi.\n\nO‘qish, kuzatish va o‘rganish orqali inson dunyoni yaxshiroq anglaydi."
+  },
+  {
+    "title": "Toza fikr",
+    "author": "Fonus kutubxonasi",
+    "cat": "Ilmiy",
+    "cls": "c4",
+    "desc": "Ilmiy yo‘nalishidagi qisqa original o‘qish",
+    "text": "Toza fikr haqida Fonus uchun tayyorlangan original qisqa matn. Har bir yangi sahifa yangi fikr va savollar sari yetaklaydi.\n\nO‘qish, kuzatish va o‘rganish orqali inson dunyoni yaxshiroq anglaydi."
+  },
+  {
+    "title": "Sog‘lom odatlar",
+    "author": "Fonus kutubxonasi",
+    "cat": "Tarix",
+    "cls": "c1",
+    "desc": "Tarix yo‘nalishidagi qisqa original o‘qish",
+    "text": "Sog‘lom odatlar haqida Fonus uchun tayyorlangan original qisqa matn. Har bir yangi sahifa yangi fikr va savollar sari yetaklaydi.\n\nO‘qish, kuzatish va o‘rganish orqali inson dunyoni yaxshiroq anglaydi."
+  },
+  {
+    "title": "Har kuni bir sahifa",
+    "author": "Fonus kutubxonasi",
+    "cat": "Badiiy",
+    "cls": "c2",
+    "desc": "Badiiy yo‘nalishidagi qisqa original o‘qish",
+    "text": "Har kuni bir sahifa haqida Fonus uchun tayyorlangan original qisqa matn. Har bir yangi sahifa yangi fikr va savollar sari yetaklaydi.\n\nO‘qish, kuzatish va o‘rganish orqali inson dunyoni yaxshiroq anglaydi."
+  },
+  {
+    "title": "O‘rganish zavqi",
+    "author": "Fonus kutubxonasi",
+    "cat": "Ilmiy",
+    "cls": "c3",
+    "desc": "Ilmiy yo‘nalishidagi qisqa original o‘qish",
+    "text": "O‘rganish zavqi haqida Fonus uchun tayyorlangan original qisqa matn. Har bir yangi sahifa yangi fikr va savollar sari yetaklaydi.\n\nO‘qish, kuzatish va o‘rganish orqali inson dunyoni yaxshiroq anglaydi."
+  },
+  {
+    "title": "Savollar olami",
+    "author": "Fonus kutubxonasi",
+    "cat": "Tarix",
+    "cls": "c4",
+    "desc": "Tarix yo‘nalishidagi qisqa original o‘qish",
+    "text": "Savollar olami haqida Fonus uchun tayyorlangan original qisqa matn. Har bir yangi sahifa yangi fikr va savollar sari yetaklaydi.\n\nO‘qish, kuzatish va o‘rganish orqali inson dunyoni yaxshiroq anglaydi."
+  },
+  {
+    "title": "Fikr va tafakkur",
+    "author": "Fonus kutubxonasi",
+    "cat": "Badiiy",
+    "cls": "c1",
+    "desc": "Badiiy yo‘nalishidagi qisqa original o‘qish",
+    "text": "Fikr va tafakkur haqida Fonus uchun tayyorlangan original qisqa matn. Har bir yangi sahifa yangi fikr va savollar sari yetaklaydi.\n\nO‘qish, kuzatish va o‘rganish orqali inson dunyoni yaxshiroq anglaydi."
+  },
+  {
+    "title": "Kuzatuvchanlik",
+    "author": "Fonus kutubxonasi",
+    "cat": "Ilmiy",
+    "cls": "c2",
+    "desc": "Ilmiy yo‘nalishidagi qisqa original o‘qish",
+    "text": "Kuzatuvchanlik haqida Fonus uchun tayyorlangan original qisqa matn. Har bir yangi sahifa yangi fikr va savollar sari yetaklaydi.\n\nO‘qish, kuzatish va o‘rganish orqali inson dunyoni yaxshiroq anglaydi."
+  },
+  {
+    "title": "Ijodkorlik",
+    "author": "Fonus kutubxonasi",
+    "cat": "Tarix",
+    "cls": "c3",
+    "desc": "Tarix yo‘nalishidagi qisqa original o‘qish",
+    "text": "Ijodkorlik haqida Fonus uchun tayyorlangan original qisqa matn. Har bir yangi sahifa yangi fikr va savollar sari yetaklaydi.\n\nO‘qish, kuzatish va o‘rganish orqali inson dunyoni yaxshiroq anglaydi."
+  },
+  {
+    "title": "Muammolar yechimi",
+    "author": "Fonus kutubxonasi",
+    "cat": "Badiiy",
+    "cls": "c4",
+    "desc": "Badiiy yo‘nalishidagi qisqa original o‘qish",
+    "text": "Muammolar yechimi haqida Fonus uchun tayyorlangan original qisqa matn. Har bir yangi sahifa yangi fikr va savollar sari yetaklaydi.\n\nO‘qish, kuzatish va o‘rganish orqali inson dunyoni yaxshiroq anglaydi."
+  },
+  {
+    "title": "Kelajak g‘oyalari",
+    "author": "Fonus kutubxonasi",
+    "cat": "Ilmiy",
+    "cls": "c1",
+    "desc": "Ilmiy yo‘nalishidagi qisqa original o‘qish",
+    "text": "Kelajak g‘oyalari haqida Fonus uchun tayyorlangan original qisqa matn. Har bir yangi sahifa yangi fikr va savollar sari yetaklaydi.\n\nO‘qish, kuzatish va o‘rganish orqali inson dunyoni yaxshiroq anglaydi."
+  },
+  {
+    "title": "Yurt manzaralari",
+    "author": "Fonus kutubxonasi",
+    "cat": "Tarix",
+    "cls": "c2",
+    "desc": "Tarix yo‘nalishidagi qisqa original o‘qish",
+    "text": "Yurt manzaralari haqida Fonus uchun tayyorlangan original qisqa matn. Har bir yangi sahifa yangi fikr va savollar sari yetaklaydi.\n\nO‘qish, kuzatish va o‘rganish orqali inson dunyoni yaxshiroq anglaydi."
+  },
+  {
+    "title": "Qadimiy obidalar",
+    "author": "Fonus kutubxonasi",
+    "cat": "Badiiy",
+    "cls": "c3",
+    "desc": "Badiiy yo‘nalishidagi qisqa original o‘qish",
+    "text": "Qadimiy obidalar haqida Fonus uchun tayyorlangan original qisqa matn. Har bir yangi sahifa yangi fikr va savollar sari yetaklaydi.\n\nO‘qish, kuzatish va o‘rganish orqali inson dunyoni yaxshiroq anglaydi."
+  },
+  {
+    "title": "Sayohat kundaligi",
+    "author": "Fonus kutubxonasi",
+    "cat": "Ilmiy",
+    "cls": "c4",
+    "desc": "Ilmiy yo‘nalishidagi qisqa original o‘qish",
+    "text": "Sayohat kundaligi haqida Fonus uchun tayyorlangan original qisqa matn. Har bir yangi sahifa yangi fikr va savollar sari yetaklaydi.\n\nO‘qish, kuzatish va o‘rganish orqali inson dunyoni yaxshiroq anglaydi."
+  },
+  {
+    "title": "Olamni anglash",
+    "author": "Fonus kutubxonasi",
+    "cat": "Tarix",
+    "cls": "c1",
+    "desc": "Tarix yo‘nalishidagi qisqa original o‘qish",
+    "text": "Olamni anglash haqida Fonus uchun tayyorlangan original qisqa matn. Har bir yangi sahifa yangi fikr va savollar sari yetaklaydi.\n\nO‘qish, kuzatish va o‘rganish orqali inson dunyoni yaxshiroq anglaydi."
+  },
+  {
+    "title": "Yangi sahifa",
+    "author": "Fonus kutubxonasi",
+    "cat": "Badiiy",
+    "cls": "c2",
+    "desc": "Badiiy yo‘nalishidagi qisqa original o‘qish",
+    "text": "Yangi sahifa haqida Fonus uchun tayyorlangan original qisqa matn. Har bir yangi sahifa yangi fikr va savollar sari yetaklaydi.\n\nO‘qish, kuzatish va o‘rganish orqali inson dunyoni yaxshiroq anglaydi."
+  }
+]
