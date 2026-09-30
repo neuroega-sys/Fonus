@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Tongdagi xotiralar",
+    "author": "Fonus kutubxonasi",
+    "cat": "Badiiy",
+    "cls": "c1",
+    "desc": "Hikoya va xotiralar",
+    "text": "Tong yorishayotgan paytda shahar asta-sekin uyg‘onardi.\n\nHar bir yangi kun yangi imkoniyat olib kelardi."
+  },
+  {
+    "title": "Bilim sari",
+    "author": "Fonus kutubxonasi",
+    "cat": "Ilmiy",
+    "cls": "c3",
+    "desc": "Bilim va tafakkur haqida",
+    "text": "Bilim savol berishdan boshlanadi.\n\nO‘rganish insonning dunyoqarashini kengaytiradi."
+  },
+  {
+    "title": "Samarqand sahifalari",
+    "author": "Fonus kutubxonasi",
+    "cat": "Tarix",
+    "cls": "c4",
+    "desc": "Tarixiy shahar haqida",
+    "text": "Samarqand qadimiy tarix va madaniyat bilan chambarchas bog‘liq.\n\nUning tarixi ko‘plab avlodlar uchun qiziqarli merosdir."
+  }
+]
